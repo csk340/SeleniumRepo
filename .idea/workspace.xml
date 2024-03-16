@@ -1,0 +1,239 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="f9262c6c-4ba4-4343-8e42-448f82e88f10" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/allure-results/0901edae-e854-4e60-be1c-b18163d2e06e-container.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/allure-results/1a19a24c-b10f-4bf7-a453-66f5a79b80c9-result.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/allure-results/1c93b120-1e56-4d52-a04f-b4b5758f0cfe-container.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/allure-results/1c9d274d-0105-4d75-ab79-0c2580432569-result.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/allure-results/2102830e-bb87-4920-8bef-5109dbce7873-result.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/allure-results/217d92e4-5be0-49e1-b6c8-d5b12d8be35d-result.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/allure-results/234b1e4c-92c7-4f50-9cea-0255161db5df-result.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/allure-results/27568205-7ecc-4c86-a521-e855442cb556-container.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/allure-results/2e133258-f51e-4a6a-8296-29f72678198c-result.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/allure-results/360ed1eb-e0b5-486c-a7ca-3a45525076ec-result.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/allure-results/36d9c5ae-79f3-4cfb-a7a6-82511fb118bc-container.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/allure-results/3b291e32-d259-4609-89fc-a391c400d107-result.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/allure-results/433b33f2-712e-46b0-907f-4185347dc1e4-container.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/allure-results/5044cf2a-b53d-4b53-b263-66c0894eeaf1-result.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/allure-results/52b071e4-8270-4e69-ac58-6dae0c437b58-container.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/allure-results/531b77cc-f082-4142-943c-98d2a4981693-container.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/allure-results/58e07c40-7a7b-4ffb-b7e5-93ddcb601cd3-container.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/allure-results/61600514-a64f-4df0-be8f-8386f6453199-container.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/allure-results/6352e37e-6417-4cd6-b3e6-b0ca902cb87e-container.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/allure-results/667770d8-44e5-4be5-a3e6-f215f81a2432-result.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/allure-results/68cbd8b8-00ae-4e48-a758-6ef9dec4bad2-container.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/allure-results/6a2dc944-0079-4079-8916-59d08d7d40bb-container.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/allure-results/726792a3-1c25-428f-a1f7-6302a787c81e-container.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/allure-results/783f41c1-307d-4aba-9250-cb49032b4750-container.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/allure-results/7e920ba5-1dd4-45fc-a8f7-84805a4d0d41-container.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/allure-results/8684a994-4a3c-4958-bc9c-7a1345c1beaf-container.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/allure-results/88e68912-fda6-4c5d-9534-ee451c31e36a-container.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/allure-results/8aa80044-1941-47d6-9af4-899f1f565755-container.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/allure-results/8f2d0fad-74d4-483a-a74d-a69ecf1eaa37-result.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/allure-results/91084e09-ec0f-4f11-8f64-37d0fb4fb761-container.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/allure-results/92a56e64-5a75-44d7-a0e4-398802eb1913-container.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/allure-results/94edb319-8f9c-4088-9e3f-be12dc38751c-container.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/allure-results/967432a7-1ba6-4c20-86d0-6893e93e4d2c-container.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/allure-results/985789fd-2e45-4177-8a0f-795bf6c5fae4-result.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/allure-results/9985366b-5f95-4621-96a0-7c857f10b4db-container.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/allure-results/9b76dd32-f7ff-401a-9afc-522b83beb789-container.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/allure-results/9bb8277e-ffef-4ab9-b94d-1fbbd99b8d27-container.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/allure-results/a5e70f68-08c4-458e-9f86-018bf29b3bd6-container.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/allure-results/a86a210f-f6df-42f6-8874-450a92a22fac-container.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/allure-results/aaea566f-7677-40cf-a1fc-707981c8671e-container.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/allure-results/aba6c559-5842-4213-b4d6-b37ea37df5bb-container.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/allure-results/b384ff0e-ab18-49ab-a975-3d9d33a35dff-container.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/allure-results/b3ecffe2-6c83-4ac0-a15d-21fcbaa18ae8-result.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/allure-results/b950e45e-744d-4c25-abe2-b7163bc50ce2-container.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/allure-results/c27c8627-24ca-4e1f-b727-3eba952d73e4-container.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/allure-results/c5a84a98-d281-496b-a2aa-64a9dc58f3a7-container.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/allure-results/d086de09-2de2-4489-88fe-9c8b6afe2a6b-container.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/allure-results/d09eaab4-8d45-4004-9673-e19c8ae61d45-container.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/allure-results/dac2ff9e-5bce-45b8-a091-12a22a30950b-container.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/allure-results/db7c30f4-cb18-45a0-bbbc-7e12e8179c53-container.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/allure-results/dd0fd803-ca96-4461-87ab-523aa2ed9308-container.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/allure-results/df5c64b8-000b-4a01-bacb-e5ee15f2eb6a-result.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/allure-results/e9a34632-08cc-4724-81e2-08abb18dd416-container.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/allure-results/eb24af44-d861-4e8b-90a9-3a434a87b9b4-container.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/allure-results/ec229589-f5d9-4fe9-8827-8328b3cd78d5-container.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/allure-results/fe6784ce-21d8-4650-bc77-3a731d746373-container.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/TTA/App.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/TTA/AppTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/TTA/Extension.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/TTA/MyFirstSeleniumProgram.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/TTA/NavigateWindow.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/TTA/PageLoadStrategy.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/TTA/TestCaseCheckVWO.java" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 2
+}</component>
+  <component name="ProjectId" id="2dUDmg8ul4x9XheqnL8y6JfHBw8" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "ASKED_ADD_EXTERNAL_FILES": "true",
+    "Application.MyFirstSeleniumProgram.executor": "Run",
+    "JUnit.AppTest.executor": "Run",
+    "Maven. [org.apache.maven.plugins:maven-archetype-plugin:RELEASE:generate].executor": "Run",
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "TestNG.Extension.executor": "Run",
+    "TestNG.Extension.method1.executor": "Run",
+    "TestNG.NavigateWindow.windownavigationcheck.executor": "Run",
+    "TestNG.PageLoadStrategy.pageloadstrategycheck.executor": "Run",
+    "TestNG.TestCaseCheckVWO.vwocheck.executor": "Run",
+    "git-widget-placeholder": "master",
+    "kotlin-language-version-configured": "true"
+  }
+}]]></component>
+  <component name="RunManager" selected="TestNG.TestCaseCheckVWO.vwocheck">
+    <configuration name="MyFirstSeleniumProgram" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="TTA.MyFirstSeleniumProgram" />
+      <module name="SeleniumATB5X" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="TTA.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Extension.method1" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="SeleniumATB5X" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="TTA.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="TTA" />
+      <option name="MAIN_CLASS_NAME" value="TTA.Extension" />
+      <option name="METHOD_NAME" value="method1" />
+      <option name="TEST_OBJECT" value="METHOD" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="NavigateWindow.windownavigationcheck" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="SeleniumATB5X" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="TTA.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="TTA" />
+      <option name="MAIN_CLASS_NAME" value="TTA.NavigateWindow" />
+      <option name="METHOD_NAME" value="windownavigationcheck" />
+      <option name="TEST_OBJECT" value="METHOD" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="PageLoadStrategy.pageloadstrategycheck" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="SeleniumATB5X" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="TTA.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="TTA" />
+      <option name="MAIN_CLASS_NAME" value="TTA.PageLoadStrategy" />
+      <option name="METHOD_NAME" value="pageloadstrategycheck" />
+      <option name="TEST_OBJECT" value="METHOD" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="TestCaseCheckVWO.vwocheck" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="SeleniumATB5X" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="TTA.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="TTA" />
+      <option name="MAIN_CLASS_NAME" value="TTA.TestCaseCheckVWO" />
+      <option name="METHOD_NAME" value="vwocheck" />
+      <option name="TEST_OBJECT" value="METHOD" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="TestNG.TestCaseCheckVWO.vwocheck" />
+        <item itemvalue="TestNG.NavigateWindow.windownavigationcheck" />
+        <item itemvalue="Application.MyFirstSeleniumProgram" />
+        <item itemvalue="TestNG.PageLoadStrategy.pageloadstrategycheck" />
+        <item itemvalue="TestNG.Extension.method1" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="jdk-21.0.2-openjdk-21.0.2-4caba194b151-4f524021" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="f9262c6c-4ba4-4343-8e42-448f82e88f10" name="Changes" comment="" />
+      <created>1710053930476</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1710053930476</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
+  </component>
+</project>
