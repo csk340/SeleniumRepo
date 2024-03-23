@@ -1,0 +1,2 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd"><suite name="All Test Suite"><test verbose="2" preserve-order="true" name="C:/Users/AKASH KULKARNI/IdeaProjects/Test2/src/test/java/TTA/PageLoadStrategy.java"><classes><class name="TTA.PageLoadStrategy"><methods><include name="pageloadstrategycheck"/></methods></class></classes></test></suite>

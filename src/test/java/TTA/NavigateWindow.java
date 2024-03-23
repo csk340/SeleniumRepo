@@ -16,5 +16,6 @@ public class NavigateWindow {
         Thread.sleep(5000);
         driver.navigate().forward();
         driver.navigate().refresh();
+
     }
 }
